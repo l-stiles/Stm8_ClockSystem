@@ -12,7 +12,7 @@
 
 
 
-
+extern void vfnTogetdata();
 extern void EEPROM_ReadData(unsigned char *buffer, unsigned char addr, unsigned char num);
 extern void EEPROM_WriteData(unsigned char *buffer, unsigned char addr, unsigned char num);
 extern void EEPROM_WriteOnePage(unsigned char *buffer, unsigned char addr, unsigned char num);

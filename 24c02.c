@@ -244,3 +244,23 @@ void EEPROM_ReadData(unsigned char *buffer, unsigned char addr, unsigned char nu
     
 
 }
+
+
+/*****************************/
+void vfnTogetdata()
+{
+	unsigned char ucCount;
+	
+	//printf("hello world~~\n");
+	//this is a test for boring~
+	
+	ucCount = 500;
+	while(ucCount--);	
+	
+	
+	
+}
+
+
+
+/****************************/
