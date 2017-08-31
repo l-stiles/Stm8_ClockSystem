@@ -19,5 +19,7 @@ extern void EEPROM_WriteOnePage(unsigned char *buffer, unsigned char addr, unsig
 extern void Init_IIc(void);
 void WaitI2C_SDA_Idle(void);
 
+extern int nfnBroadring(void);
+
 
 #endif

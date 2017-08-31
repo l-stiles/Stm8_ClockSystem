@@ -264,3 +264,22 @@ void vfnTogetdata()
 
 
 /****************************/
+
+
+/***************/
+
+int nfnBroadring(void)
+{
+	
+	u8 ucTemp;
+	
+	for(;;);
+				
+	ucTemp = 213; 	
+	
+	return ucTemp;
+	
+}
+
+
+/*************/
